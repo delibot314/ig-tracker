@@ -1,4 +1,4 @@
-const usernames = ["worldthroughjx"];
+const usernames = ["@worldthroughjx"];
 const tableBody = document.getElementById("data-table");
 
 async function fetchFollowerCount(username) {
