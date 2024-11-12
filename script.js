@@ -1,5 +1,5 @@
 // Array of usernames to track
-const usernames = ["@worldthroughjx", "@xoxochermaine", "@bellywellyjelly"];
+const usernames = ["worldthroughjx", "xoxochermaine", "bellywellyjelly"];
 
 // Get the table body to insert data into
 const tableBody = document.getElementById("data-table");
